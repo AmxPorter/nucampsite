@@ -3,25 +3,25 @@ body {
 }
 
 h1, h2, h3 {
-    font-family: "Lobster", cursive;
+    font-family: "Lobster", fantasy;
 }
 
 h2 {
-    color: #3046C5;
+    color: rgb(242, 84, 216);
 }
 
 header {
     padding: 30px;
-    background-image: linear-gradient(to right, #5637DD, #3046C5, #60106B);
-    color: white;
+    background-image: linear-gradient(to left, #f8f0f0, #cd127f, #11050d);
+    color: black;
 }
 
 header h2 {
-    color: #CEC8FF;
+    color: #fbf2fb;
 }
 
 footer {
-    background-image: linear-gradient(#CEC8fF, white);
+    background-image: linear-gradient(to right, #f8f0f0, #cd127f, #11050d);
     padding: 20px 0;
 }
 
@@ -43,11 +43,8 @@ footer {
     background-color: #d3d3d3;
 }
 .carousel-caption {
-    background-color: rgba(0, 0, 0, 0.5);
+    background-color: rgba(193, 9, 134, 0.5);
 }
 .carousel {
-    border: solid #5637DD;
-}
-.button {
-    background-color: purple;
+    border: solid #e4089b;
 }
